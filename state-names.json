@@ -1,0 +1,317 @@
+{
+    "values": [
+        {
+            "id": "ANDHRA-PRADESH",
+            "name": {
+                "value": "andhra pradesh",
+                "synonyms": [
+                    "andhra pradesh",
+                    "andhra"
+                ]
+            }
+        },
+        {
+            "id": "ARUNACHAL-PRADESH",
+            "name": {
+                "value": "arunachal pradesh",
+                "synonyms": [
+                    "arunachal pradesh",
+                    "arunachal"
+                ]
+            }
+        },
+        {
+            "id": "ASSAM",
+            "name": {
+                "value": "assam",
+                "synonyms": [
+                    "assam"
+                ]
+            }
+        },
+        {
+            "id": "BIHAR",
+            "name": {
+                "value": "bihar",
+                "synonyms": [
+                    "bihar"
+                ]
+            }
+        },
+        {
+            "id": "CHANDIGARH",
+            "name": {
+                "value": "chandigarh",
+                "synonyms": [
+                    "chandigarh"
+                ]
+            }
+        },
+        {
+            "id": "CHATTISGARH",
+            "name": {
+                "value": "chattisgarh",
+                "synonyms": [
+                    "chhattisgarh",
+                    "chattisgarh"
+                ]
+            }
+        },
+        {
+            "id": "DADRA-AND-NAGAR-HAVELI",
+            "name": {
+                "value": "dadra and nagar haveli",
+                "synonyms": [
+                    "dadra and nagar haveli"
+                ]
+            }
+        },
+        {
+            "id": "DAMAN-AND-DIU",
+            "name": {
+                "value": "daman and diu",
+                "synonyms": [
+                    "daman and diu"
+                ]
+            }
+        },
+        {
+            "id": "GOA",
+            "name": {
+                "value": "goa",
+                "synonyms": [
+                    "goa"
+                ]
+            }
+        },
+        {
+            "id": "GUJARAT",
+            "name": {
+                "value": "gujarat",
+                "synonyms": [
+                    "gujarat"
+                ]
+            }
+        },
+        {
+            "id": "HARYANA",
+            "name": {
+                "value": "haryana",
+                "synonyms": [
+                    "haryana"
+                ]
+            }
+        },
+        {
+            "id": "HIMACHAL-PRADESH",
+            "name": {
+                "value": "himachal pradesh",
+                "synonyms": [
+                    "himachal pradesh",
+                    "himachal"
+                ]
+            }
+        },
+        {
+            "id": "JAMMU-AND-KASHMIR",
+            "name": {
+                "value": "jammu and kashmir",
+                "synonyms": [
+                    "jammu and kashmir",
+                    "jammu",
+                    "kashmir",
+                    "jammu kashmir"
+                ]
+            }
+        },
+        {
+            "id": "JHARKHAND",
+            "name": {
+                "value": "jharkhand",
+                "synonyms": [
+                    "jharkhand"
+                ]
+            }
+        },
+        {
+            "id": "KARNATAKA",
+            "name": {
+                "value": "karnataka",
+                "synonyms": [
+                    "karnataka"
+                ]
+            }
+        },
+        {
+            "id": "KERALA",
+            "name": {
+                "value": "kerala",
+                "synonyms": [
+                    "kerala"
+                ]
+            }
+        },
+        {
+            "id": "LAKSHADWEEP",
+            "name": {
+                "value": "lakshadweep",
+                "synonyms": [
+                    "lakshadweep"
+                ]
+            }
+        },
+        {
+            "id": "MADHYA-PRADESH",
+            "name": {
+                "value": "madhya pradesh",
+                "synonyms": [
+                    "madhya pradesh"
+                ]
+            }
+        },
+        {
+            "id": "MAHARASHTRA",
+            "name": {
+                "value": "maharashtra",
+                "synonyms": [
+                    "maharashtra"
+                ]
+            }
+        },
+        {
+            "id": "MEGHALAYA",
+            "name": {
+                "value": "meghalaya",
+                "synonyms": [
+                    "meghalaya"
+                ]
+            }
+        },
+        {
+            "id": "MIZORAM",
+            "name": {
+                "value": "mizoram",
+                "synonyms": [
+                    "mizoram"
+                ]
+            }
+        },
+        {
+            "id": "NAGALAND",
+            "name": {
+                "value": "nagaland",
+                "synonyms": [
+                    "nagaland"
+                ]
+            }
+        },
+        {
+            "id": "NEW-DELHI",
+            "name": {
+                "value": "new delhi",
+                "synonyms": [
+                    "new delhi"
+                ]
+            }
+        },
+        {
+            "id": "ODISHA",
+            "name": {
+                "value": "odisha",
+                "synonyms": [
+                    "odisha"
+                ]
+            }
+        },
+        {
+            "id": "PUDUCHERRY",
+            "name": {
+                "value": "puducherry",
+                "synonyms": [
+                    "puducherry"
+                ]
+            }
+        },
+        {
+            "id": "PUNJAB",
+            "name": {
+                "value": "punjab",
+                "synonyms": [
+                    "punjab"
+                ]
+            }
+        },
+        {
+            "id": "RAJASTHAN",
+            "name": {
+                "value": "rajasthan",
+                "synonyms": [
+                    "rajasthan"
+                ]
+            }
+        },
+        {
+            "id": "SIKKIM",
+            "name": {
+                "value": "sikkim",
+                "synonyms": [
+                    "sikkim"
+                ]
+            }
+        },
+        {
+            "id": "TAMIL-NADU",
+            "name": {
+                "value": "tamil nadu",
+                "synonyms": [
+                    "tamil nadu"
+                ]
+            }
+        },
+        {
+            "id": "TELANGANA",
+            "name": {
+                "value": "telangana",
+                "synonyms": [
+                    "telangana"
+                ]
+            }
+        },
+        {
+            "id": "TRIPURA",
+            "name": {
+                "value": "tripura",
+                "synonyms": [
+                    "tripura"
+                ]
+            }
+        },
+        {
+            "id": "UTTAR-PRADESH",
+            "name": {
+                "value": "uttar pradesh",
+                "synonyms": [
+                    "uttar pradesh"
+                ]
+            }
+        },
+        {
+            "id": "UTTARAKHAND",
+            "name": {
+                "value": "uttarakhand",
+                "synonyms": [
+                    "uttarakhand"
+                ]
+            }
+        },
+        {
+            "id": "WEST-BENGAL",
+            "name": {
+                "value": "west bengal",
+                "synonyms": [
+                    "west bengal"
+                ]
+            }
+        }
+    ]
+}
