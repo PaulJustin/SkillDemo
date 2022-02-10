@@ -40045,6 +40045,15 @@
                     "karnataka"
                 ]
             }
+        },
+        {
+            "id": "PUDUCHERRY",
+            "name": {
+                "value": "puducherry",
+                "synonyms": [
+                    "puducherry"
+                ]
+            }
         }
     ]
 }
